@@ -1,0 +1,8 @@
+220920191825, 1. 33333, "Gray Mountain - John Grisham", 14.95 10 15% 22/09/19, 6:25:04 PM EDT
+220920191825, 1. 33333, "Gray Mountain - John Grisham", 14.95 10 15% 22/09/19, 6:25:44 PM EDT
+220920191825, 2. 33333, "Gray Mountain - John Grisham", 14.95 3 0% 22/09/19, 6:25:44 PM EDT
+220920191826, 1. 33333, "Gray Mountain - John Grisham", 14.95 3 0% 22/09/19, 6:26:26 PM EDT
+220920191826, 2. 22222, "W Is For Wasted - Sue Grafton", 9.95 10 15% 22/09/19, 6:26:26 PM EDT
+220920191826, 1. 33333, "Gray Mountain - John Grisham", 14.95 3 0% 22/09/19, 6:26:40 PM EDT
+220920191826, 2. 22222, "W Is For Wasted - Sue Grafton", 9.95 10 15% 22/09/19, 6:26:40 PM EDT
+220920191826, 3. 234, "The Bourne Identity - Robert Ludlum", 12.95 4 0% 22/09/19, 6:26:40 PM EDT
